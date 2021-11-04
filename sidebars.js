@@ -430,6 +430,7 @@ module.exports = {
         "validate/mainnet/signer-change",
         "validate/mainnet/commission",
         "validate/mainnet/move-stake",
+        "validate/mainnet/install-gcp",
         "validate/mainnet/technical-faqs",
         "validate/mainnet/validator-knowledge-base",
       ],
